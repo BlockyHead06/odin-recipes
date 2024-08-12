@@ -14,3 +14,7 @@ p {
     font-weight: bolder;
     font-size: large;
 }
+
+ol, ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
