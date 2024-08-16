@@ -1,6 +1,13 @@
 
 :root {
-    background-color: rgb(255, 239, 216)
+    background-color: rgb(255, 209, 144)
+}
+
+body {
+    background-color: rgb(255, 239, 216);
+    padding: 20px;
+    border: 2px solid rgb(96, 67, 31);
+    margin: 30px 300px;
 }
 
 h1, h2 {
