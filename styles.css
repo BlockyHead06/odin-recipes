@@ -23,6 +23,14 @@ p {
 }
 
 nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    color: rgb(85, 71, 52);
+    text-decoration: none;
+    background-color: burlywood;
     padding: 10px;
 }
 
